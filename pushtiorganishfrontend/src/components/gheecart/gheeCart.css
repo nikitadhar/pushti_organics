@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Gloock&family=Poppins:wght@300;400&family=Roboto:ital,wght@0,300;1,300;1,700&display=swap');
+.ghee_main{
+    display: flex;
+ 
+    border-radius: 50px;
+    width: 80%;
+    margin-top: 40px;
+  margin-left: 200px;
+  margin-bottom: 60px;
+  font-family: 'Gloock', serif;
+  font-family: 'Poppins', sans-serif;
+  font-family: 'Roboto', sans-serif;
+}
+.ghee_container{
+    width: 50%;
+}
+.ghee_container img{
+    border-radius: 50px;
+}
+.ghee_container span{
+   font-size: 18px;
+   position: relative;
+    top: -15px;
+    left: -30px;
+}
+.ghee_container button{
+    color: rgb(71, 168, 71);
+    border: 1px solid rgb(71, 168, 71);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 100px;
+    font-family: 'Poppins', sans-serif;
+    padding: 10px;
+     
+    font-size:24px;
+    
+    margin-bottom: 20px;
+    width: 90%;
+}
+.honey_container{
+    width: 50%;
+}
+.honey_container span{
+    font-size: 18px;
+    position: relative;
+    top: -15px;
+    left: -30px;
+}
+.honey_container img{
+    border-radius: 50px;
+}
+.honey_container button{
+    color: rgb(71, 168, 71);
+border: 1px solid rgb(71, 168, 71);
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+border-radius: 100px;
+font-family: 'Poppins', sans-serif;
+padding: 10px;
+ 
+font-size:24px;
+width: 90%;
+margin-bottom: 20px;
+}

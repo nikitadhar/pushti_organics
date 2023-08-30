@@ -1,0 +1,33 @@
+[
+    {
+        "img":"images/aloevera.jpg",
+        "title":"Aloevera Leaves",
+        "price":"Rs. 25.00"
+    },
+    {
+        "img":"images/amla.jpg",
+        "title":"Amla/500 grams",
+        "price":"Rs. 125.00"
+    },
+    {
+        "img":"images/arbi.jpg",
+        "title":"Arbi (Taro Root)/ 250 Grams",
+        "price":"From Rs. 45.00"
+    },
+    {
+        "img":"images/guva.jpg",
+        "title":"Ash Gourd/1 Kg",
+        "price":"Rs. 110.00"
+    },
+    {
+        "img":"images/onion.jpg",
+        "title":"Baby Onions/500 Grams",
+        "price":"Rs. 30.00"
+    },
+    {
+        "img":"images/potato.jpg",
+        "title":"Baby Potato",
+        "price":"Rs. 55.00"
+    }
+
+]

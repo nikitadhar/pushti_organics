@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Gloock&family=Poppins:wght@300;400&family=Roboto:ital,wght@0,300;1,300;1,700&display=swap');
+ .blog_main{
+   display: grid;
+    grid-template-columns: repeat(3, 1fr); 
+ }
+.blog{
+ 
+font-family: 'Poppins', sans-serif;
+width: 350px;
+ 
+ 
+
+ }
+ .blog_img_container{
+    border: 1px solid black;  
+    padding: 8px;
+    border-radius: 10px;
+    width: 300px;
+ }
+ .blog img{
+width: 300px;
+border: 1px solid black;
+ }
+ .blog_detail{
+    text-align: left;
+ margin-left: 20px;
+ }
+ .blog_detail span{
+font-size: 12px;
+position: relative;
+top: -18px;
+left: -30px;
+ 
+ }
+ .blog_detail h3{
+     width: 280px;
+     }
+ .blog_detail p{
+    position: relative;
+    width: 280px;
+  top: -30px;
+    color: grey;
+ }

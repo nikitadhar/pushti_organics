@@ -1,0 +1,27 @@
+[
+
+   {
+    "img":"images/adonyi-gabor.png",
+    "alt":"adonyi-gabor",
+    "title":"Fresh Dairy Products",
+    "desc":"Pushti organic deliver fresh dairy products at your home with minimum prices."
+   },
+   {
+    "img":"images/yufan-jiang.png",
+    "alt":"yufan-jiang",
+    "title":"Leafy Vegetables",
+    "desc":"Pushti organic deliver fresh leafy products at your home with minimum prices."
+   },
+   {
+    "img":"images/viktor-smith.png",
+    "alt":"viktor-smith",
+    "title":"Our Best Quality Seeds",
+    "desc":"Pushti organic deliver best quality seeds at your home with minimum prices."
+   },
+   {
+    "img":"images/chana-ga.png",
+    "alt":"chana-ga",
+    "title":"Best Pulses",
+    "desc":"Pushti organic deliver best pulses at your home with minimum prices."
+   }
+]

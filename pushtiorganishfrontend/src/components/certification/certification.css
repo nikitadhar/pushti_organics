@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Gloock&family=Poppins:wght@300;400&family=Roboto:ital,wght@0,300;1,300;1,700&display=swap');
+.certification_main{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    background-color: #fff;
+    border-top: 0.5px solid rgb(167, 164, 164);
+    padding-top: 30px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),0 ,0 ,0;
+}
+.certification_main span{
+    color: grey;
+}
+.certification{
+    background-color: #045D21;
+    display: flex;
+    gap: 60px;
+    justify-content: center;
+    padding-bottom: 70px;
+    padding-top: 30px;
+    margin-top: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+.certification_first{
+    border: 0.5px solid rgb(170, 164, 164);
+    border-radius: 10px;
+    background-color: #045D21;
+    padding: 20px;
+    color: #fff;
+    width: 500px;
+   
+    text-align: center;
+}
+.certification_first img{
+width: 300px;
+}
+.certification_second{
+    border: 0.5px solid rgb(170, 164, 164);
+    border-radius: 10px;
+    background-color: #045D21;
+    padding: 20px;
+    color: #fff;
+    width: 500px;
+    text-align: center;
+}
+ 

@@ -1,0 +1,25 @@
+[
+    {
+        "img":"images/markus-spiske.png",
+        "alt":"markus-spiske",
+        "title":"Organic fruit",
+        "date":"OCTOBER 21, 2021",
+        "desc":"We often get this question from people that why is organic more expensive than inorganic produce? Well, we are here to answer just that for you! Ultra-processed foods are often..."
+    },
+    
+    {
+        "img":"images/blog-img.png",
+        "alt":"blog-img",
+        "title":"The true cost of non-organic food.",
+        "date":"OCTOBER 21, 2021",
+        "desc":"We often get this question from people that why is organic more expensive than inorganic produce? Well, we are here to answer just that for you! Ultra-processed foods are often..."
+    },
+    
+    {
+        "img":"images/ella-olsson.png",
+        "alt":"ella-olsson",
+        "title":"7 Vegetables your children should never eat again in 2021!",
+        "date":"MARCH 31, 2021",
+        "desc":"Recently Environmental working group  a non-profit organization fighting for consumers' right to live healthier lives in a healthier environment which is also a regulatory authority to ensure the..."
+    }
+]

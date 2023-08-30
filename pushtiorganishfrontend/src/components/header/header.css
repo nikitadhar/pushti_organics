@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Gloock&family=Poppins:wght@300;400&family=Roboto:ital,wght@0,300;1,300;1,700&display=swap');
+.header{
+    background-color: #045D21;
+    background-size: cover;
+     color: #fff;
+      font-family: 'Gloock', serif;
+  font-family: 'Poppins', sans-serif;
+  font-family: 'Roboto', sans-serif;
+}
+.header_head_container{
+    display: flex;
+    gap:40% ;
+    margin-left: 100px;
+    padding-top: 20px;
+}
+ 
+.header_search_icon{
+    font-size: 20px;
+}
+.header_heading3{
+    text-align: center;
+}
+/* .header_heading_container{
+    background-color: blue;
+} */
+.header_shopping_icon_container{
+     
+    display: flex;
+    gap: 20px;
+}
+.header_shopping_icon{
+     
+    font-size:20px;
+}
+.header_list_container{
+  
+    margin-left: 25%;
+   padding-top: 10px;
+    padding-bottom: 10px;
+   
+}
+
+.header_list_container ul{
+    display: flex;
+    gap: 30px;
+}
+.header_list_container ul li{
+    list-style: none;
+    font-size: 18px;
+}

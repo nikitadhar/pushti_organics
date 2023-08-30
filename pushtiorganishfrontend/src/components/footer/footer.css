@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Gloock&family=Poppins:wght@300;400&family=Roboto:ital,wght@0,300;1,300;1,700&display=swap');
+.footer_container{
+    background-color: #045D21;
+  background-size: cover;
+   color: #fff;
+    font-family: 'Gloock', serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+   
+}
+.list_container_head{
+    display: flex;
+    gap: 40%;
+    padding:50px; 
+}
+.list_container{
+    display: flex;
+}
+.list_container_child ul li{
+list-style: none;
+position: relative;
+left: 0%;
+padding: 10px;
+}
+.search_container_head{
+    display: flex;
+    gap: 600px;
+    border-bottom: 1px solid rgb(163, 160, 160);
+    padding-bottom: 50px;
+    padding:50px; 
+}
+.mail_container{
+    border: 1px solid rgb(163, 160, 160);
+    border-radius: 100px;
+    width: 400px;
+    display: flex;
+    gap: 300px;
+    padding-left: 30px;
+}
+.subscribe_heading2{
+    margin-left: 15px;
+}
+.arrow{
+    margin-top:18px;
+}
+.socialmedia_container{
+    display: flex;
+    gap: 25px;
+    margin-top: 60px;
+}
+.social_icons{
+    width: 20px;
+}
+.copyright_span{
+    margin-top: 40px;
+    padding-bottom: 70px;
+    text-align: center;
+}
+.list_heading2{
+    margin-left:50px;
+}

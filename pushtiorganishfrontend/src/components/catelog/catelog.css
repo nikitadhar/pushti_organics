@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Gloock&family=Poppins:wght@300;400&family=Roboto:ital,wght@0,300;1,300;1,700&display=swap');
+.catelog_main {
+  display: flex;
+ 
+  border-radius: 50px;
+  width: 80%;
+margin-left: 130px;
+margin-bottom: 60px;
+
+}
+.catelog_detail {
+  padding: 60px;
+  width: 50%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 50px 0px 0px 50px;
+  border: 0.5px solid rgb(179, 175, 175);
+
+}
+.catelog_detail p{
+    font-family: 'Gloock', serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+}
+.catelog_main img {
+  border-radius: 0px 50px 50px 0px;
+  width: 50%;
+}
+.catelog_main  button{
+    color: #fff;
+    background-color: black;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius:10px;
+    font-family: 'Roboto', sans-serif;
+    padding: 10px;
+    font-size: 16px;
+    width: 100px;
+}

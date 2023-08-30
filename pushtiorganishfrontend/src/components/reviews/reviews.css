@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Gloock&family=Poppins:wght@300;400&family=Roboto:ital,wght@0,300;1,300;1,700&display=swap');
+.review_main{
+     
+        display: grid;
+        grid-template-columns: repeat(4, 1fr); 
+        margin-bottom: 100px;
+    
+}
+.review_cart{
+    background-color: #fff;
+    border-radius:10px;
+    border: 0.5px solid rgb(179, 175, 175);
+    width: 260px;
+    padding: 15px;
+    font-weight: bold;
+    font-family: 'Gloock', serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+.review_cart p{
+    text-align: justify;
+}
+ 

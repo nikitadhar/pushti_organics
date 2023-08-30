@@ -1,0 +1,86 @@
+[
+    {
+        "img":"images/ajwain.png",
+        "alt":"ajwain",
+        "title":"Ajwain/100 gm",
+        "price":"Rs. 79.00"
+
+    },
+    {
+        "img":"images/Bay_Leaves.png",
+        "alt":"Bay_Leaves",
+        "title":"Bay Leaves/50 gm",
+        "price":"rs. 85.00"
+
+    },
+    {
+        "img":"images/Black_Cardamom.png",
+        "alt":"Black_Cardamom",
+        "title":"Black Cardamom/100gm",
+        "price":"Rs. 249.00"
+
+    },
+    {
+        "img":"images/BLACK_PEPPER_POWDER.png",
+        "alt":"BLACK_PEPPER_POWDER",
+        "title":"Black Pepper Powder/100gm",
+        "price":"199.00"
+
+    },
+    {
+        "img":"images/Red_chilli_Powder.png",
+        "alt":"Red_chilli_Powder",
+        "title":"Chilli Powder/200 gm",
+        "price":"Rs. 120.00"
+
+    },
+    {
+        "img":"images/Cinamon_Powder.png",
+        "alt":"Cinamon_Powder",
+        "title":"Cinnamon Powder/100 Grams",
+        "price":"Rs. 110.00"
+
+    },
+    {
+        "img":"images/Clove.png",
+        "alt":"Clove",
+        "title":"Clove Whole/100 gm",
+        "price":"Rs. 220.00"
+
+    },
+    {
+        "img":"images/CORIANDER_POWDER.png",
+        "alt":"CORIANNDER_POWER",
+        "title":"Coriander Powder/200 gm",
+        "price":"Rs. 139.00"
+
+    },
+    {
+        "img":"images/Cumin_Powder.png",
+        "alt":"Cumin_Powder",
+        "title":"Cumin Powder/200 Grams",
+        "price":"Rs. 189.00"
+
+    },
+    {
+        "img":"images/Cummin.png",
+        "alt":"Cummin",
+        "title":"Cumin whole/200 gm",
+        "price":"Rs. 169.00"
+
+    },
+    {
+        "img":"images/Ginger_Powder.png",
+        "alt":"Ginger_Powder",
+        "title":"Dry Ginger Powder/100 gm",
+        "price":"Rs. 114.00"
+
+    },
+    {
+        "img":"images/Fenugreek_fa.png",
+        "alt":"Fenugreek_fa",
+        "title":"Fenugreek/200 gm",
+        "price":"Rs. 70.00"
+
+    }
+]
